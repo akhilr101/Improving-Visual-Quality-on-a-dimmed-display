@@ -1,3 +1,6 @@
+Improving Image Visual Quality on a Dimmed Display
+Akhil Rajavaram
+
 The code is developed primarily in MATLAB (R2022b) and calls a Java class (from within MATLAB). MATLAB's Image Processing Toolbox is also used.
 Development was done on a Windows 10 device.
 
